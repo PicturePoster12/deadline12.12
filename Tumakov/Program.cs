@@ -51,6 +51,7 @@ namespace Tumakov
                 Console.WriteLine("Введите путь к файлу:");
                 string path = @$"{Console.ReadLine()}";//Файл к заданию 8.3.txt
                 Files file = new Files();
+                Console.WriteLine(file.FileProcessing(path));
             }
             catch (FormatException)
             {
