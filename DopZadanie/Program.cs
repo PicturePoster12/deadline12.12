@@ -18,8 +18,6 @@ namespace DopZadanie
             {
                 zina.ProcessNextResident();
             }
-
-            // Выводим состояние очередей
             zina.PrintQueuesStatus();
         }
     }
