@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ\DZ.csproj", "{D3F8CF01-3959-4517-BF9A-91AFA595AC08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DopZadanie", "DopZadanie\DopZadanie.csproj", "{5B0671DC-EA4C-4482-8CDB-F7FBB93CCABF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D3F8CF01-3959-4517-BF9A-91AFA595AC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F8CF01-3959-4517-BF9A-91AFA595AC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F8CF01-3959-4517-BF9A-91AFA595AC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0671DC-EA4C-4482-8CDB-F7FBB93CCABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0671DC-EA4C-4482-8CDB-F7FBB93CCABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0671DC-EA4C-4482-8CDB-F7FBB93CCABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0671DC-EA4C-4482-8CDB-F7FBB93CCABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
